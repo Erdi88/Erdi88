@@ -1,5 +1,20 @@
 ## Hi there 👋
 
+I'm Sondre Erdi Solbakken! 👋
+
+I am a motivated student pursuing a Bachelor's degree in Mathematics and Physics at the University of Tromsø (UiT). I have a strong interest in programming and technology, and I enjoy solving technical challenges through coding.
+
+## Education
+- Bachelor of Mathematics and Physics, University of Tromsø (UiT)
+
+## Technical Skills
+- Programming languages: Python, C, R
+- Experience with VS Code for development
+- Document preparation using LaTeX
+
+## Contact
+- 📫 [LinkedIn](https://www.linkedin.com/in/sondre-erdi-solbakken-069618288/)
+- 📧 erdnosen@gmail.com
 <!--
 **Erdi88/Erdi88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
