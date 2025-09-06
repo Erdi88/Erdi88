@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Sondre Erdi Solbakken! 👋
+I'm Sondre Erdi Solbakken,
 
 I am a undergraduate student pursuing a Bachelor's degree in Mathematics and Physics at the University of Tromsø (UiT). 
 
