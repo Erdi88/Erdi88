@@ -2,7 +2,7 @@
 
 I'm Sondre Erdi Solbakken! 👋
 
-I am a undergraduatestudent pursuing a Bachelor's degree in Mathematics and Physics at the University of Tromsø (UiT). 
+I am a undergraduate student pursuing a Bachelor's degree in Mathematics and Physics at the University of Tromsø (UiT). 
 
 ## Education
 - Bachelor of Mathematics and Physics, University of Tromsø (UiT)
