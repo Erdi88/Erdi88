@@ -8,7 +8,7 @@ I am a undergraduate student pursuing a Bachelor's degree in Mathematics and Phy
 - Bachelor of Mathematics and Physics, University of Tromsø (UiT)
 
 ## Technical Skills
-- Programming languages: Python, C, R
+- Programming languages: Python, C, SQL, R
 - Experience with VSCode and CLion 
 - Document preparation using LaTeX
 
