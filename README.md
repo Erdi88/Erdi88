@@ -2,14 +2,14 @@
 
 I'm Sondre Erdi Solbakken,
 
-I am a undergraduate student pursuing a Bachelor's degree in Mathematics and Physics at the University of Tromsø (UiT). 
+Studying a Master's degree in Energy 
 
 ## Education
 - Bachelor of Mathematics and Physics, University of Tromsø (UiT)
 
 ## Technical Skills
-- Programming languages: Python, C, SQL, R
-- Experience with VSCode and CLion 
+- Programming languages: Python, SQL, R
+- Vscode, CLion, 
 - Document preparation using LaTeX
 
 ## Contact
