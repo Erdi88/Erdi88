@@ -4,7 +4,7 @@ Building computational tools at the intersection of physics, data, and energy sy
 
 I'm a Master's student in Energy with a background in Physics, focused on applying AI, simulation, and data-driven methods to solve complex problems in energy and engineering.
 
-This GitHub is a collection of structured, reproducible projects that reflect how I approach technical problems — combining physical understanding with modern computational tools.
+
 
 ---
 
@@ -49,7 +49,6 @@ Focus: AI, computational modeling, numerical simulation of Energy Systems
 
 - Applied projects solving real-world technical problems
 - Machine learning and simulation workflows
-- Clean, well-documented code with emphasis on reproducibility
 - Experiments combining physics-based and data-driven approaches
 
 ---
