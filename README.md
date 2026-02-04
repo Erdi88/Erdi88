@@ -11,7 +11,7 @@ This GitHub is a collection of structured, reproducible projects that reflect ho
 ## 🎓 Education
 
 **MSc Energy** (ongoing), University of Bergen (UiB)  
-Focus: AI, computational modeling, numerical simulation  
+Focus: AI, computational modeling, numerical simulation of Energy Systems 
 
 **BSc Physics**, University of Tromsø (UiT)
 
