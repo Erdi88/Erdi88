@@ -55,9 +55,9 @@ Focus: AI, computational modeling, numerical simulation of Energy Systems
 
 ## 📫 Contact
 
-- 💼 LinkedIn
+## 📫 Contact
+- 💼 [LinkedIn](https://www.linkedin.com/in/sondre-erdi-solbakken-069618288/)
 - ✉️ erdnosen@gmail.com
-
 
 <!--
 **Erdi88/Erdi88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
