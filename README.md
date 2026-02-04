@@ -54,8 +54,6 @@ Focus: AI, computational modeling, numerical simulation of Energy Systems
 ---
 
 ## 📫 Contact
-
-## 📫 Contact
 - 💼 [LinkedIn](https://www.linkedin.com/in/sondre-erdi-solbakken-069618288/)
 - ✉️ erdnosen@gmail.com
 
